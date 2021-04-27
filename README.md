@@ -16,7 +16,7 @@ Project was mostly designed for use within my own projects, but feel free to use
 - Writing code to fix bugs
 - Currently responding to issues involving bugs
 
-### Maintained
+### Semi-Maintained
 
 - Not actively writing code for the project
 - Responds to issues & questions
@@ -66,10 +66,10 @@ No matter your commitment to a project, it is in your user's interest to know th
 ---
 
 ```
-[![Maintained](https://img.shields.io/badge/Maintenance%20Level-Maintained-yellowgreen.svg)](https://github.com/TheodoreHua/MaintenanceLevels#actively-maintained)
+[![Semi-Maintained](https://img.shields.io/badge/Maintenance%20Level-Semi--Maintained-yellowgreen.svg)](https://github.com/TheodoreHua/MaintenanceLevels#actively-maintained)
 ```
 
-[![Maintained](https://img.shields.io/badge/Maintenance%20Level-Maintained-yellowgreen.svg)](https://github.com/TheodoreHua/MaintenanceLevels#actively-maintained)
+[![Semi-Maintained](https://img.shields.io/badge/Maintenance%20Level-Semi--Maintained-yellowgreen.svg)](https://github.com/TheodoreHua/MaintenanceLevels#actively-maintained)
 
 ---
 
