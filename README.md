@@ -1,6 +1,7 @@
 # Maintenance Badges
 
-*Edited from [cheerfulstoic's version](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d)*
+*Edited from [cheerfulstoic's version](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d)*  
+Project was mostly designed for use within my own projects, but feel free to use this for your projects as well.
 
 ## Levels
 
