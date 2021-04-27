@@ -4,16 +4,26 @@
 
 ## Levels
 
-<dl>
-  <dt>Actively Developed</dt><dd>The maintainer(s) of this project are currently writing code for this project as well as responding to issues and integrating code contributions</dt>
-  <dt>Actively Maintained</dt><dd>The maintainer(s) of this project are responding to all issues and integrating code contributions</dt>
-  <dt>Bug Fixes Only</dt><dd>The maintainer(s) of this project are implementing bug fixes, and integrating code contributions that implement bug fixes</dt>
-  <dt>Inactively Maintained</dt><dd>The maintainer(s) are around to answer questions, but do not currently have time to respond to issues or integrate code contributions</dt>
-  <dt>Not Maintained</dt><dd>The maintainer(s) are not around to work on this project and should offer to hand the project over
-  <dt>Abandoned</dt><dd>The maintainer(s) are not interested in spending any more time on this project.  Users are welcome to fork it.</dt>
+### Actively Developed
+The maintainer(s) of this project are currently writing code for this project as well as responding to issues and integrating code contributions.
+
+### Actively Maintained
+The maintainer(s) of this project are responding to all issues and integrating code contributions.
+
+### Bug Fixes Only
+The maintainer(s) of this project are implementing bug fixes, and integrating code contributions that implement bug fixes.
+
+### Inactively Maintained
+The maintainer(s) are around to answer questions, but do not currently have time to respond to issues or integrate code contributions.
+
+### Not Maintained
+The maintainer(s) are not around to work on this project and should offer to hand the project over.
+
+### Abandoned
+The maintainer(s) are not interested in spending any more time on this project.  Users are welcome to fork it.
 </dl>
 
-No matter your commitment to a project, it is in your user's interest to know the status of your projects (as well as in your own interest to not have to answer the question over and over). 
+No matter your commitment to a project, it is in your user's interest to know the status of your projects (as well as in your own interest to not have to answer the question over and over).
 
 ## Badges
 
