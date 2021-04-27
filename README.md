@@ -21,7 +21,6 @@ The maintainer(s) are not around to work on this project and should offer to han
 
 ### Abandoned
 The maintainer(s) are not interested in spending any more time on this project.  Users are welcome to fork it.
-</dl>
 
 No matter your commitment to a project, it is in your user's interest to know the status of your projects (as well as in your own interest to not have to answer the question over and over).
 
