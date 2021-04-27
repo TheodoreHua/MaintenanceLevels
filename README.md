@@ -13,7 +13,7 @@
   <dt>Abandoned</dt><dd>The maintainer(s) are not interested in spending any more time on this project.  Users are welcome to fork it.</dt>
 </dl>
 
-No matter your commitment to a project, it is in your user's interest to know the status of your projects (as well as in your own interest to not have to answer the question over and over).  To that end I have created these easy-to-copy badges for your repo's README which can all be linked back to this page.
+No matter your commitment to a project, it is in your user's interest to know the status of your projects (as well as in your own interest to not have to answer the question over and over). 
 
 ## Badges
 
