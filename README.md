@@ -1,4 +1,8 @@
-Edited from [cheerfulstoic's version](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d)
+# Maintenance Badges
+
+*Edited from [cheerfulstoic's version](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d)*
+
+## Levels
 
 <dl>
   <dt>Actively Developed</dt><dd>The maintainer(s) of this project are currently writing code for this project as well as responding to issues and integrating code contributions</dt>
@@ -11,6 +15,7 @@ Edited from [cheerfulstoic's version](https://gist.github.com/cheerfulstoic/d107
 
 No matter your commitment to a project, it is in your user's interest to know the status of your projects (as well as in your own interest to not have to answer the question over and over).  To that end I have created these easy-to-copy badges for your repo's README which can all be linked back to this page.
 
+## Badges
 
 ```
 [![Actively Developed](https://img.shields.io/badge/Maintenance%20Level-Actively%20Developed-brightgreen.svg)](https://github.com/TheodoreHua/MaintenanceLevels)
@@ -18,11 +23,15 @@ No matter your commitment to a project, it is in your user's interest to know th
 
 [![Actively Developed](https://img.shields.io/badge/Maintenance%20Level-Actively%20Developed-brightgreen.svg)](https://github.com/TheodoreHua/MaintenanceLevels)
 
+---
+
 ```
 [![Actively Maintained](https://img.shields.io/badge/Maintenance%20Level-Actively%20Maintained-green.svg)](https://github.com/TheodoreHua/MaintenanceLevels)
 ```
 
 [![Actively Maintained](https://img.shields.io/badge/Maintenance%20Level-Actively%20Maintained-green.svg)](https://github.com/TheodoreHua/MaintenanceLevels)
+
+---
 
 ```
 [![Bug Fixes Only](https://img.shields.io/badge/Maintenance%20Level-Bug%20Fixes%20Only-yellowgreen.svg)](https://github.com/TheodoreHua/MaintenanceLevels)
@@ -30,17 +39,23 @@ No matter your commitment to a project, it is in your user's interest to know th
 
 [![Bug Fixes Only](https://img.shields.io/badge/Maintenance%20Level-Bug%20Fixes%20Only-yellowgreen.svg)](https://github.com/TheodoreHua/MaintenanceLevels)
 
+---
+
 ```
 [![Inactively Maintained](https://img.shields.io/badge/Maintenance%20Level-Inactively%20Maintained-yellow.svg)](https://github.com/TheodoreHua/MaintenanceLevels)
 ```
 
 [![Inactively Maintained](https://img.shields.io/badge/Maintenance%20Level-Inactively%20Maintained-yellow.svg)](https://github.com/TheodoreHua/MaintenanceLevels)
 
+---
+
 ```
 [![Not Maintained](https://img.shields.io/badge/Maintenance%20Level-Not%20Maintained-orange.svg)](https://github.com/TheodoreHua/MaintenanceLevels)
 ```
 
 [![Not Maintained](https://img.shields.io/badge/Maintenance%20Level-Not%20Maintained-orange.svg)](https://github.com/TheodoreHua/MaintenanceLevels)
+
+---
 
 ```
 [![Abandoned](https://img.shields.io/badge/Maintenance%20Level-Abandoned-red.svg)](https://github.com/TheodoreHua/MaintenanceLevels)
