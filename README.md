@@ -6,22 +6,44 @@ Project was mostly designed for use within my own projects, but feel free to use
 ## Levels
 
 ### Actively Developed
-The maintainer(s) of this project are currently writing code for this project as well as responding to issues and integrating code contributions.
 
-### Actively Maintained
-The maintainer(s) of this project are responding to all issues and integrating code contributions.
+- Currently writing code for the project (both features and bug fixes)
+- Responds to issues & questions
+- Currently integrating code contributions
 
 ### Bug Fixes Only
-The maintainer(s) of this project are implementing bug fixes, and integrating code contributions that implement bug fixes.
+
+- Writing code to fix bugs
+- Currently responding to issues involving bugs
+
+### Maintained
+
+- Not actively writing code for the project
+- Responds to issues & questions
+- Integrates code contributions
 
 ### Inactively Maintained
-The maintainer(s) are around to answer questions, but do not currently have time to respond to issues or integrate code contributions.
+
+- Not actively writing code for the project
+- Answers questions
+- Not responding to issues
+- Not integrating code contributions
 
 ### Not Maintained
 The maintainer(s) are not around to work on this project and should offer to hand the project over.
 
+- Not actively writing code for the project
+- Not answering issues or questions
+- Not integrating code contributions
+- May hand the project over to someone else
+
 ### Abandoned
-The maintainer(s) are not interested in spending any more time on this project.  Users are welcome to fork it.
+
+- Not actively writing code for the project
+- Not answering issues or questions
+- Not integrating code contributions
+- Not handing the project over or interacting with it at all
+- Users are welcome to fork the project if they wish to continue working on it
 
 No matter your commitment to a project, it is in your user's interest to know the status of your projects (as well as in your own interest to not have to answer the question over and over).
 
@@ -36,18 +58,18 @@ No matter your commitment to a project, it is in your user's interest to know th
 ---
 
 ```
-[![Actively Maintained](https://img.shields.io/badge/Maintenance%20Level-Actively%20Maintained-green.svg)](https://github.com/TheodoreHua/MaintenanceLevels#actively-maintained)
+[![Bug Fixes Only](https://img.shields.io/badge/Maintenance%20Level-Bug%20Fixes%20Only-green.svg)](https://github.com/TheodoreHua/MaintenanceLevels#bug-fixes-only)
 ```
 
-[![Actively Maintained](https://img.shields.io/badge/Maintenance%20Level-Actively%20Maintained-green.svg)](https://github.com/TheodoreHua/MaintenanceLevels#actively-maintained)
+[![Bug Fixes Only](https://img.shields.io/badge/Maintenance%20Level-Bug%20Fixes%20Only-green.svg)](https://github.com/TheodoreHua/MaintenanceLevels#bug-fixes-only)
 
 ---
 
 ```
-[![Bug Fixes Only](https://img.shields.io/badge/Maintenance%20Level-Bug%20Fixes%20Only-yellowgreen.svg)](https://github.com/TheodoreHua/MaintenanceLevels#bug-fixes-only)
+[![Maintained](https://img.shields.io/badge/Maintenance%20Level-Maintained-yellowgreen.svg)](https://github.com/TheodoreHua/MaintenanceLevels#actively-maintained)
 ```
 
-[![Bug Fixes Only](https://img.shields.io/badge/Maintenance%20Level-Bug%20Fixes%20Only-yellowgreen.svg)](https://github.com/TheodoreHua/MaintenanceLevels#bug-fixes-only)
+[![Maintained](https://img.shields.io/badge/Maintenance%20Level-Maintained-yellowgreen.svg)](https://github.com/TheodoreHua/MaintenanceLevels#actively-maintained)
 
 ---
 
