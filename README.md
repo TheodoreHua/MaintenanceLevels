@@ -27,47 +27,47 @@ No matter your commitment to a project, it is in your user's interest to know th
 ## Badges
 
 ```
-[![Actively Developed](https://img.shields.io/badge/Maintenance%20Level-Actively%20Developed-brightgreen.svg)](https://github.com/TheodoreHua/MaintenanceLevels)
+[![Actively Developed](https://img.shields.io/badge/Maintenance%20Level-Actively%20Developed-brightgreen.svg)](https://github.com/TheodoreHua/MaintenanceLevels#actively-developed)
 ```
 
-[![Actively Developed](https://img.shields.io/badge/Maintenance%20Level-Actively%20Developed-brightgreen.svg)](https://github.com/TheodoreHua/MaintenanceLevels)
+[![Actively Developed](https://img.shields.io/badge/Maintenance%20Level-Actively%20Developed-brightgreen.svg)](https://github.com/TheodoreHua/MaintenanceLevels#actively-developed)
 
 ---
 
 ```
-[![Actively Maintained](https://img.shields.io/badge/Maintenance%20Level-Actively%20Maintained-green.svg)](https://github.com/TheodoreHua/MaintenanceLevels)
+[![Actively Maintained](https://img.shields.io/badge/Maintenance%20Level-Actively%20Maintained-green.svg)](https://github.com/TheodoreHua/MaintenanceLevels#actively-maintained)
 ```
 
-[![Actively Maintained](https://img.shields.io/badge/Maintenance%20Level-Actively%20Maintained-green.svg)](https://github.com/TheodoreHua/MaintenanceLevels)
+[![Actively Maintained](https://img.shields.io/badge/Maintenance%20Level-Actively%20Maintained-green.svg)](https://github.com/TheodoreHua/MaintenanceLevels#actively-maintained)
 
 ---
 
 ```
-[![Bug Fixes Only](https://img.shields.io/badge/Maintenance%20Level-Bug%20Fixes%20Only-yellowgreen.svg)](https://github.com/TheodoreHua/MaintenanceLevels)
+[![Bug Fixes Only](https://img.shields.io/badge/Maintenance%20Level-Bug%20Fixes%20Only-yellowgreen.svg)](https://github.com/TheodoreHua/MaintenanceLevels#bug-fixes-only)
 ```
 
-[![Bug Fixes Only](https://img.shields.io/badge/Maintenance%20Level-Bug%20Fixes%20Only-yellowgreen.svg)](https://github.com/TheodoreHua/MaintenanceLevels)
+[![Bug Fixes Only](https://img.shields.io/badge/Maintenance%20Level-Bug%20Fixes%20Only-yellowgreen.svg)](https://github.com/TheodoreHua/MaintenanceLevels#bug-fixes-only)
 
 ---
 
 ```
-[![Inactively Maintained](https://img.shields.io/badge/Maintenance%20Level-Inactively%20Maintained-yellow.svg)](https://github.com/TheodoreHua/MaintenanceLevels)
+[![Inactively Maintained](https://img.shields.io/badge/Maintenance%20Level-Inactively%20Maintained-yellow.svg)](https://github.com/TheodoreHua/MaintenanceLevels#inactively-maintained)
 ```
 
-[![Inactively Maintained](https://img.shields.io/badge/Maintenance%20Level-Inactively%20Maintained-yellow.svg)](https://github.com/TheodoreHua/MaintenanceLevels)
+[![Inactively Maintained](https://img.shields.io/badge/Maintenance%20Level-Inactively%20Maintained-yellow.svg)](https://github.com/TheodoreHua/MaintenanceLevels#inactively-maintained)
 
 ---
 
 ```
-[![Not Maintained](https://img.shields.io/badge/Maintenance%20Level-Not%20Maintained-orange.svg)](https://github.com/TheodoreHua/MaintenanceLevels)
+[![Not Maintained](https://img.shields.io/badge/Maintenance%20Level-Not%20Maintained-orange.svg)](https://github.com/TheodoreHua/MaintenanceLevels#not-maintained)
 ```
 
-[![Not Maintained](https://img.shields.io/badge/Maintenance%20Level-Not%20Maintained-orange.svg)](https://github.com/TheodoreHua/MaintenanceLevels)
+[![Not Maintained](https://img.shields.io/badge/Maintenance%20Level-Not%20Maintained-orange.svg)](https://github.com/TheodoreHua/MaintenanceLevels#not-maintained)
 
 ---
 
 ```
-[![Abandoned](https://img.shields.io/badge/Maintenance%20Level-Abandoned-red.svg)](https://github.com/TheodoreHua/MaintenanceLevels)
+[![Abandoned](https://img.shields.io/badge/Maintenance%20Level-Abandoned-red.svg)](https://github.com/TheodoreHua/MaintenanceLevels#abandoned)
 ```
 
-[![Abandoned](https://img.shields.io/badge/Maintenance%20Level-Abandoned-red.svg)](https://github.com/TheodoreHua/MaintenanceLevels)
+[![Abandoned](https://img.shields.io/badge/Maintenance%20Level-Abandoned-red.svg)](https://github.com/TheodoreHua/MaintenanceLevels#abandoned)
