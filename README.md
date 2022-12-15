@@ -66,10 +66,10 @@ No matter your commitment to a project, it is in your user's interest to know th
 ---
 
 ```
-[![Semi-Maintained](https://img.shields.io/badge/Maintenance%20Level-Semi--Maintained-yellowgreen.svg)](https://github.com/TheodoreHua/MaintenanceLevels#actively-maintained)
+[![Semi-Maintained](https://img.shields.io/badge/Maintenance%20Level-Semi--Maintained-yellowgreen.svg)](https://github.com/TheodoreHua/MaintenanceLevels#semi-maintained)
 ```
 
-[![Semi-Maintained](https://img.shields.io/badge/Maintenance%20Level-Semi--Maintained-yellowgreen.svg)](https://github.com/TheodoreHua/MaintenanceLevels#actively-maintained)
+[![Semi-Maintained](https://img.shields.io/badge/Maintenance%20Level-Semi--Maintained-yellowgreen.svg)](https://github.com/TheodoreHua/MaintenanceLevels#semi-maintained)
 
 ---
 
